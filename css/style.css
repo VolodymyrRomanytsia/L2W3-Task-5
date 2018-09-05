@@ -1,0 +1,29 @@
+html, body{
+    margin: 0;
+}
+
+.container {
+	margin-top: 5px;
+	display: flex;
+	justify-content: left: auto;
+}
+
+.button {
+	border-radius: 10px;
+	margin: 20px;
+	height: 40px;
+	width: 60px;
+	background-color: green;
+}
+
+.block {
+	display: block;
+
+	text-align: center;
+}
+
+ul {
+	list-style:none;
+	margin:0;
+	padding:0
+}
